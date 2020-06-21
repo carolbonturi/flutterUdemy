@@ -6,7 +6,8 @@ void main() => runApp(
           home: Scaffold(
               body: Center(
                 child: Image(
-                  image: NetworkImage( 'https://assets.entrepreneur.com/content/3x2/2000/20160305000536-diamond.jpeg'),
+//                  image: NetworkImage( 'https://assets.entrepreneur.com/content/3x2/2000/20160305000536-diamond.jpeg'),
+                  image: AssetImage('images/diamond.png'),
                   alignment: Alignment.topCenter,
                 ),
               ),
