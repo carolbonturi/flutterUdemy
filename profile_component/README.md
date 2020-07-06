@@ -1,4 +1,4 @@
-# i_am_poor
+# profile_component
 
 A new Flutter application.
 

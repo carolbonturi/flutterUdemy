@@ -1,4 +1,4 @@
-name: i_am_poor
+name: profile_component
 description: A new Flutter application.
 
 # The following line prevents the package from being accidentally published to
@@ -44,9 +44,8 @@ flutter:
   # the material Icons class.
   uses-material-design: true
 
-  # To add assets to your application, add an assets section, like this:
-assets:
-  - images/playstore.png
+  assets:
+    - images/lina.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
