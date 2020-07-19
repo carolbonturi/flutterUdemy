@@ -11,24 +11,32 @@ class MyApp extends StatelessWidget {
         home: Scaffold(
       backgroundColor: Colors.teal,
       body: SafeArea(
-          child: Row(
-        mainAxisAlignment: MainAxisAlignment.spaceBetween,
-        children: <Widget>[
-          Container(width: 100.0, height: double.infinity, color: Colors.red),
-          Column(
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: [
-              Container(width: 100.0, height: 100.0, color: Colors.yellow),
-              Container(width: 100.0, height: 100.0, color: Colors.green),
-            ],
-          ),
-          Container(
-            width: 100.0,
-            height: double.infinity,
-            color: Colors.blue,
-          )
-        ],
-      )),
+        child: Column(
+          children: <Widget>[
+            CircleAvatar(
+              radius: 50.0,
+              backgroundImage: AssetImage('images/lina.png'),
+            ),
+            Text(
+              'Lina Bonturi',
+              style: TextStyle(
+                  fontWeight: FontWeight.bold,
+                  fontSize: 30.0,
+                  color: Colors.white,
+                  fontFamily: 'Pacifico'),
+            ),
+            Text(
+              'FLUTTER DEVELOPER',
+              style: TextStyle(
+                  fontFamily: 'SourceSansPro',
+                  fontSize: 15.0,
+                  color: Colors.teal[100],
+                  letterSpacing: 2.5,
+                  fontWeight: FontWeight.bold),
+            ),
+          ],
+        ),
+      ),
     ));
   }
 }
