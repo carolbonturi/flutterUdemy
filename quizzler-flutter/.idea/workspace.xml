@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b51abbd-36ab-4274-9685-d38e31f674fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../destini-challenge-starting-master/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../destini-challenge-starting-master/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../destini-challenge-starting-master/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../destini-challenge-starting-master/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quizzler-flutter-challenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../quizzler-flutter-challenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destini-challenge-starting-master/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../destini-challenge-starting-master/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destini-challenge-starting-master/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../destini-challenge-starting-master/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destini-challenge-starting-master/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/../destini-challenge-starting-master/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destini-challenge-starting-master/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../destini-challenge-starting-master/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destini-challenge-starting-master/lib/story.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../destini-challenge-starting-master/lib/story.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destini-challenge-starting-master/lib/story_brain.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../destini-challenge-starting-master/lib/story_brain.dart" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -154,7 +154,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1309" height="943" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.18626676" />
       <window_info id="Structure" side_tool="true" />
