@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0b51abbd-36ab-4274-9685-d38e31f674fb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../destini-challenge-starting-master/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../destini-challenge-starting-master/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../destini-challenge-starting-master/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../destini-challenge-starting-master/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../destini-challenge-starting-master/lib/story_brain.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../destini-challenge-starting-master/lib/story_brain.dart" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -164,7 +162,7 @@
       <window_info anchor="bottom" id="Dart Analysis" weight="0.32902467" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="TODO" />
-      <window_info anchor="bottom" id="Run" sideWeight="0.49923196" visible="true" weight="0.32314923" />
+      <window_info anchor="bottom" id="Run" sideWeight="0.49923196" weight="0.32314923" />
       <window_info anchor="bottom" id="Debug" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.50076807" side_tool="true" weight="0.39717978" />
