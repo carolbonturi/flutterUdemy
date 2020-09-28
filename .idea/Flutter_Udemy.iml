@@ -3,10 +3,46 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Clima-Flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Clima-Flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/MiCard-Completed-master/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/MiCard-Completed-master/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bmi-calculator-flutter-master/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bmi-calculator-flutter-master/build" />
+      <excludeFolder url="file://$MODULE_DIR$/destini-challenge-starting-master/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/destini-challenge-starting-master/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dicee-flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dicee-flutter/build" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_app/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_app/build" />
       <excludeFolder url="file://$MODULE_DIR$/i_am_rich/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/i_am_rich/build" />
+      <excludeFolder url="file://$MODULE_DIR$/magic_ball/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/magic_ball/build" />
+      <excludeFolder url="file://$MODULE_DIR$/profile_component/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/profile_component/build" />
+      <excludeFolder url="file://$MODULE_DIR$/quizzler-flutter-challenge/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/quizzler-flutter-challenge/build" />
+      <excludeFolder url="file://$MODULE_DIR$/quizzler-flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/quizzler-flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/build" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/ios/.symlinks/plugins/audioplayers/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/ios/.symlinks/plugins/audioplayers/build" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/ios/.symlinks/plugins/audioplayers/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/ios/.symlinks/plugins/audioplayers/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/ios/.symlinks/plugins/path_provider/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/ios/.symlinks/plugins/path_provider/build" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/ios/.symlinks/plugins/path_provider/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/ios/.symlinks/plugins/path_provider/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/ios/.symlinks/plugins/path_provider_linux/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/ios/.symlinks/plugins/path_provider_linux/build" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/ios/.symlinks/plugins/path_provider_linux/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/ios/.symlinks/plugins/path_provider_linux/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/ios/.symlinks/plugins/path_provider_macos/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/ios/.symlinks/plugins/path_provider_macos/build" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/ios/.symlinks/plugins/path_provider_macos/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/ios/.symlinks/plugins/path_provider_macos/example/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
