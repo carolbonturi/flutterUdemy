@@ -2,6 +2,12 @@
   "configVersion": 2,
   "packages": [
     {
+      "name": "animated_text_kit",
+      "rootUri": "file:///Users/carolina.bonturi/.pub-cache/hosted/pub.dartlang.org/animated_text_kit-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
       "name": "async",
       "rootUri": "file:///Users/carolina.bonturi/.pub-cache/hosted/pub.dartlang.org/async-2.4.2",
       "packageUri": "lib/",
@@ -140,7 +146,7 @@
       "languageVersion": "2.1"
     }
   ],
-  "generated": "2020-10-02T16:48:24.503077Z",
+  "generated": "2020-10-04T14:13:44.640011Z",
   "generator": "pub",
   "generatorVersion": "2.9.1"
 }
